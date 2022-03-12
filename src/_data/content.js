@@ -193,6 +193,51 @@ const entries = [{
             caption: '',
         },
     },
+    {
+        id: 'attender',
+        categories: ['relatório', 'correção'],
+        color: 'violet',
+        faicon: 'list-alt',
+        datetime: '2020-03-20',
+        title: 'V2.213',
+        body: "<li>Ajuste de Relatórios para SQLSERVER 2015 pt-en	</li><li>Todos os Relatórios </li><br />Abertura de ordem de serviço para ambiente com SQL em [pt-BR], o padrão é [en] devido as chamadas para data yyyy-mm-dd, no caso de [pt-BR] o formato é dd-mm-yyyy não mostrados dados segundo a data corrente.",
+        image: {
+            link: '#',
+            src: '/img/attender-logo.png',
+            alt: 'attender',
+            caption: '',
+        },
+    },
+    {
+        id: 'attender',
+        categories: ['melhoria'],
+        color: 'green',
+        faicon: 'check-circle',
+        datetime: '2020-03-09',
+        title: 'V2.212',
+        body: "<li>Programação de Agenda de Atendimento</li><li>Integração CTI & CRM</li><li>Criação de Agenda por Tipo Atendimento (CRM)</li><li>Criação de Agenda por Tipo de Serviço (CRM)</li><li>Páginação de Filtro Inicial por Dia de Atendimento CTI Mensal</li>",
+        image: {
+            link: '#',
+            src: '/img/check.png',
+            alt: 'attender',
+            caption: '',
+        },
+    },
+    {
+        id: 'attender',
+        categories: ['melhoria'],
+        color: 'green',
+        faicon: 'check-circle',
+        datetime: '2019-02-10',
+        title: 'V2.211',
+        body: "<li>Qualificação por Grupo</li><li>TAGS de Qualificação por Grupo</li><li>Modificações de Permissões de Grupo<ul>	</li><li>Qualificação	</li><li>TAGS</li></ul><li>Adaptação de Tela para Qualificação </li><li>Analise de Performance somente entre Atendidas</li><li>Relatório de Chamadas Ativas por Setor Agente </li><li>Sincronização de Gravações para Agentes sem permissão de rede </li>",
+        image: {
+            link: '#',
+            src: '/img/check.png',
+            alt: 'attender',
+            caption: '',
+        },
+    },
 ];
 
 // Page details
