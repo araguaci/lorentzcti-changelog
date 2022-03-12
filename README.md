@@ -4,16 +4,17 @@ Easily create a static timeline webpage like my [Wikimedia timeline](https://www
 
 **Contents**
 
-- [Install](#install)
-- [Customize](#customize)
-  - [Primary content](#primary-content)
-  - [Meta](#meta)
-- [Additional customization](#additional-customization)
-- [Responsiveness](#responsiveness)
-- [Browser compatibility](#browser-compatibility)
-- [Under the hood](#under-the-hood)
+- [Static timeline generator](#static-timeline-generator)
+  - [Install](#install)
+  - [Customize](#customize)
+    - [Primary content](#primary-content)
+    - [Meta](#meta)
+  - [Additional customization](#additional-customization)
+  - [Responsiveness](#responsiveness)
+  - [Browser compatibility](#browser-compatibility)
+  - [Under the hood](#under-the-hood)
 
-![Screenshot of a timeline page with dummy content](docs/browser.png)
+![Screenshot of a timeline page with dummy content](https://www.mollywhite.net/wikimedia-timeline/docs/browser.png)
 
 ## Install
 

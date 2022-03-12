@@ -38,7 +38,7 @@ const entries = [{
         body: "<ul><li>Criação de pacote para instalador com telas CRM</li></ul>",
         image: {
             link: '#',
-            src: '/img/install.png',
+            src: '/img/pack.png',
             alt: 'lorentz',
             caption: '',
         },
@@ -203,7 +203,7 @@ const entries = [{
         body: "<li>Ajuste de Relatórios para SQLSERVER 2015 pt-en	</li><li>Todos os Relatórios </li><br />Abertura de ordem de serviço para ambiente com SQL em [pt-BR], o padrão é [en] devido as chamadas para data yyyy-mm-dd, no caso de [pt-BR] o formato é dd-mm-yyyy não mostrados dados segundo a data corrente.",
         image: {
             link: '#',
-            src: '/img/attender-logo.png',
+            src: '/img/check.png',
             alt: 'attender',
             caption: '',
         },
