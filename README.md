@@ -73,11 +73,11 @@ Replace the images in the `src/img` folder to customize the page [favicon](https
 
 Timelines will render well on tablets:
 
-<img src="docs/tablet.png" alt="Screenshot rendered on a tablet device" width="500"/>
+<img src="https://github.com/molly/static-timeline-generator/blob/main/docs/tablet.png" alt="Screenshot rendered on a tablet device" width="500"/>
 
 or mobile devices:
 
-<img src="docs/phone.png" alt="Screenshot rendered on a phone" width="400"/>
+<img src="https://github.com/molly/static-timeline-generator/blob/main/docs/phone.png" alt="Screenshot rendered on a phone" width="400"/>
 
 ## Browser compatibility
 
