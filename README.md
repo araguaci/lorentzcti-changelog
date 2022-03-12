@@ -14,7 +14,7 @@ Easily create a static timeline webpage like my [Wikimedia timeline](https://www
   - [Browser compatibility](#browser-compatibility)
   - [Under the hood](#under-the-hood)
 
-![Screenshot of a timeline page with dummy content](https://www.mollywhite.net/wikimedia-timeline/docs/browser.png)
+![Screenshot of a timeline page with dummy content](https://github.com/molly/static-timeline-generator/blob/main/docs/browser.png)
 
 ## Install
 
