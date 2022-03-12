@@ -23,7 +23,7 @@ const entries = [{
         body: "<ul><li>Finalização de Telas para Importação de Campanhas Automáticas</li><li>Criação de Filtros para Realimentar Campanhas</li><li>Relatórios para Acompanhamento de Performance de Campanha</li></ul>",
         image: {
             link: '#',
-            src: '/img/develop.png',
+            src: '/img/develop.png  ',
             alt: 'lorentz',
             caption: '',
         },
@@ -77,7 +77,7 @@ const entries = [{
         id: 'lorentz',
         categories: ['melhoria'],
         color: 'green',
-        faicon: 'fa-refresh',
+        faicon: 'check-circle',
         datetime: '2021-02-15',
         title: 'V3.221',
         body: "<ul><li>Integrando Lorentz CRM com Cliente Lorentz</li></ul>",
