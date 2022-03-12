@@ -241,9 +241,9 @@ const entries = [{
 ];
 
 // Page details
-const pageTitle = 'Static timeline generator'; // The title of the page that shows in the browser tab
-const pageDescription = 'A super fancy timeline'; // The description of the page for search engines
-const pageAuthor = 'Jane Doe'; // Your name
+const pageTitle = 'LorentzCTI Call Center'; // The title of the page that shows in the browser tab
+const pageDescription = 'Melhorias Supervisor LorentzCTI Call Center'; // The description of the page for search engines
+const pageAuthor = 'Araguaci'; // Your name
 
 // DON'T EDIT BELOW THIS LINE! --------------------------------------------------------------------
 const getFilters = (entries) => {

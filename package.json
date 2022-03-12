@@ -11,17 +11,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/araguaci/lorentzcti-changelog.git"
+        "url": "git+https://github.com/molly/timeline-template.git"
     },
     "keywords": [
         "timeline"
     ],
-    "author": "araguaci White",
+    "author": "Molly White",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/araguaci/lorentzcti-changelog/issues"
+        "url": "https://github.com/molly/timeline-template/issues"
     },
-    "homepage": "https://github.com/araguaci/lorentzcti-changelog#readme",
+    "homepage": "https://github.com/molly/timeline-template#readme",
     "devDependencies": {
         "@11ty/eleventy": "^0.12.1",
         "ejs": "^3.1.6",
