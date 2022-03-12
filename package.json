@@ -1,0 +1,36 @@
+{
+    "name": "lorentzcti-changelog",
+    "version": "1.0.0",
+    "description": "Melhorias executadas para Supervisor LorentzCTI",
+    "main": "index.js",
+    "scripts": {
+        "serve": "npx @11ty/eleventy --serve",
+        "build": "npx @11ty/eleventy",
+        "prettier": "prettier --write .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/araguaci/lorentzcti-changelog.git"
+    },
+    "keywords": [
+        "timeline"
+    ],
+    "author": "araguaci White",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/araguaci/lorentzcti-changelog/issues"
+    },
+    "homepage": "https://github.com/araguaci/lorentzcti-changelog#readme",
+    "devDependencies": {
+        "@11ty/eleventy": "^0.12.1",
+        "ejs": "^3.1.6",
+        "eleventy-plugin-sass": "^1.2.0",
+        "eslint": "^8.0.1",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-import": "^2.25.2",
+        "eslint-plugin-prettier": "^4.0.0",
+        "moment": "^2.29.1",
+        "node-sass": "npm:sass@^1.44.0"
+    }
+}
